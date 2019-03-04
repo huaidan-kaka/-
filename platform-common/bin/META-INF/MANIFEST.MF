@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 1.8.0_121
+Build-Id: 
+Build-Number: 
+Build-Tag: 
+Created-By: Maven Integration for Eclipse
+Specification-Vendor-Id: NCI
+Specification-Version: 0.0.1-SNAPSHOT
+
